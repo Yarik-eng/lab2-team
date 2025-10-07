@@ -1,2 +1,1 @@
-print("game-logic")
-
+print("Initial project setup")
