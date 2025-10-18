@@ -106,3 +106,4 @@ def run_quiz():
     root = tk.Tk()
     app = QuizApp(root)
     root.mainloop()
+    root.mainloop()
